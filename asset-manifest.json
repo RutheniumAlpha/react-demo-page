@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RutheniumAlpha/react-demo-page/static/css/main.8cf16d9e.css",
+    "main.js": "/RutheniumAlpha/react-demo-page/static/js/main.5185f1ce.js",
+    "index.html": "/RutheniumAlpha/react-demo-page/index.html",
+    "main.8cf16d9e.css.map": "/RutheniumAlpha/react-demo-page/static/css/main.8cf16d9e.css.map",
+    "main.5185f1ce.js.map": "/RutheniumAlpha/react-demo-page/static/js/main.5185f1ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cf16d9e.css",
+    "static/js/main.5185f1ce.js"
+  ]
+}
